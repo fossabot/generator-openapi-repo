@@ -1,4 +1,5 @@
 # generator-openapi-repo [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPixleProgrambetaxl%2Fgenerator-openapi-repo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FPixleProgrambetaxl%2Fgenerator-openapi-repo?ref=badge_shield)
 > Yeoman generator for OpenAPI(fka Swagger) repo to help you share spec for your API
 
 <center>
@@ -58,3 +59,7 @@ yo openapi-repo
 [npm-url]: https://npmjs.org/package/generator-openapi-repo
 [daviddm-image]: https://david-dm.org/Rebilly/generator-openapi-repo.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/Rebilly/generator-openapi-repo
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPixleProgrambetaxl%2Fgenerator-openapi-repo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPixleProgrambetaxl%2Fgenerator-openapi-repo?ref=badge_large)
